@@ -1,0 +1,15 @@
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.csproj.AssemblyReference.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.AssemblyInfoInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.AssemblyInfo.cs
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\bin\Debug\net6.0\MultiplesOfNumbers.exe
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\bin\Debug\net6.0\MultiplesOfNumbers.deps.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\bin\Debug\net6.0\MultiplesOfNumbers.runtimeconfig.json
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\bin\Debug\net6.0\MultiplesOfNumbers.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\bin\Debug\net6.0\MultiplesOfNumbers.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\refint\MultiplesOfNumbers.dll
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.pdb
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\MultiplesOfNumbers.genruntimeconfig.cache
+C:\Users\gabym\OneDrive - Torrens Global Education Services\Desktop\my c# programs\MultiplesOfNumbers\obj\Debug\net6.0\ref\MultiplesOfNumbers.dll
